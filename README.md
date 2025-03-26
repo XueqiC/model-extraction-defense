@@ -5,7 +5,7 @@ This repository provides implementations of key **defense strategies** against *
 ## 🛡 Defense Baselines  
 
 ### 1️⃣ **Defending Against Data-Free Model Extraction by Distributionally Robust Defensive Training (NIPS'23)**  
-🔗 **Repository:** [MeCo GitHub](https://github.com/joey-wang123/DFME-DRO)  
+🔗 **Repository:** [MeCo GitHub](https://github.com/joey-wang123/DFME-DRO)  **Repository:** [MeCo GitHub](https://github.com/joey-wang123/DFME-DRO)  
 
 ### 2️⃣ **ACT: Defense Against Model Extraction Attack by Bayesian Active Watermarking (ICML'24)**  
 🔗 **Repository:** [ACT GitHub](https://github.com/joey-wang123/Bayes-Active-Watermark/tree/main)  
