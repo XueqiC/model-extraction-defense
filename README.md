@@ -10,7 +10,7 @@ This repository provides implementations of key **defense strategies** against *
 ### 2️⃣ [**Defense Against Model Extraction Attack by Bayesian Active Watermarking (ICML'24)**](https://openreview.net/forum?id=EFtNP211X3)  
 🔗 **Repository:** [ACT GitHub](https://github.com/joey-wang123/Bayes-Active-Watermark/tree/main)  
 
-### 3️⃣ **Dynamic Neural Fortresses – An Adaptive Shield for Model Extraction Defense (ICLR'25)**(https://openreview.net/forum?id=029hDSVoXK)  
+### 3️⃣ [**Dynamic Neural Fortresses – An Adaptive Shield for Model Extraction Defense (ICLR'25)]**(https://openreview.net/forum?id=029hDSVoXK)  
 🔗 **Repository:** [DNF GitHub](https://github.com/SYCodeShare/Dynamic-Neural-Fortresses)  
 
 
